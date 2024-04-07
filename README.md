@@ -33,5 +33,5 @@ Hey there! I'm Ankit Mukherjee, a first-year college student passionate about co
 Currently pursuing a BTech degree in [Computer Science and Technology] at IEM, where I'm honing my programming and problem-solving skills.
 
 ## Get in Touch 🤝
-Feel free to reach out to me via ankit.mukherjee30@gmail.comfor collaboration opportunities or to discuss anything related to technology and coding!
+Feel free to reach out to me via ankit.mukherjee30@gmail.com for collaboration opportunities or to discuss anything related to technology and coding!
 
